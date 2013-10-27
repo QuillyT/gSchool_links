@@ -1,0 +1,11 @@
+.banner > p {
+  line-height: 1.1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul .class_links li {
+  font-family: 'Nunito', sans-serif;
+}

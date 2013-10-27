@@ -1,0 +1,43 @@
+.banner{
+  text-align: center;
+  margin: 125px 0 100px 0;
+  height: 120px;
+}
+
+.banner > p {
+  margin-bottom: 0;
+}
+
+.explanation-shell{
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+.explanation {
+  border: 10px solid lightblue;
+  letter-spacing: 0;
+}
+
+.explanation p {
+  margin-bottom: 0;
+  padding: 10px;
+}
+
+footer li{
+  display: inline-block;
+}
+
+ul .class_links{
+  width: 100%;
+}
+
+ul li {
+  text-align: center;
+  width: 30%;
+  font-size: 3em;
+}
+
+.calendar{
+  margin-top: 75px;
+  text-align: center;
+}
