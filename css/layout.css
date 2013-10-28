@@ -1,6 +1,6 @@
-.banner{
+.banner {
   text-align: center;
-  margin: 125px 0 100px 0;
+  margin: 125px 0 50px 0;
   height: 120px;
 }
 
@@ -8,8 +8,8 @@
   margin-bottom: 0;
 }
 
-.explanation-shell{
-  margin-bottom: 100px;
+.explanation-shell {
+  margin-bottom: 50px;
   text-align: left;
 }
 
@@ -23,27 +23,34 @@
   padding: 10px;
 }
 
-footer li{
-  display: inline-block;
+footer {
+  text-align: center;
 }
 
-ul .class_links{
+footer li {
+  display: inline-block;
+  margin: 0;
+}
+
+ul.class_links {
   width: 100%;
+  margin-bottom: 50px;
 }
 
 ul li {
-  text-align: center;
   width: 30%;
-  font-size: 3em;
 }
 
-.calendar{
+.calendar {
   margin-top: 75px;
   text-align: center;
 }
 
-.home_link{
+.home_link {
   float: right;
 }
 
+footer div {
+  width: 100%;
+}
 

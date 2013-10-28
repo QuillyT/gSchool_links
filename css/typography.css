@@ -6,6 +6,18 @@ a {
   text-decoration: none;
 }
 
-ul .class_links li {
+footer ul li a {
+  font-size: 3em;
+}
+
+footer ul li {
+  font-family: 'Nunito', sans-serif;
+}
+
+footer div a {
+  font-size: 3em;
+}
+
+.suggestions{
   font-family: 'Nunito', sans-serif;
 }
